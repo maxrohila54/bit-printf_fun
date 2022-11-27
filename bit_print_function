@@ -34,7 +34,7 @@
 		print_binary(z);
 		z = x >> 1; // Right shift, 01110100;
 		printf("Right shift bitwise operator: \n");
-
+                printf("%d", z); // print decimal value
 	}
 
 
