@@ -18,7 +18,7 @@
 	{
 		x = 22;
 		y = 0b10010110;
-		print binary(x);
+		print_binary(x);
 		print_binary (y);
 		z = x & y;   //// AND, 10000000;
 		printf("AND bitwise operator: \n");
